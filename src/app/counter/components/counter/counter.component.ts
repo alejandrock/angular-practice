@@ -11,7 +11,6 @@ import { Component} from '@angular/core';
 })
 
 export class CounterComponent {
-
   public title:string = 'Hello World';
   public counter: number = 10;
 
